@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"topping"
+			],
+			[
+				"top",
+				"topping"
+			],
+			[
+				"to",
+				"toppings"
+			],
+			[
+				"u",
+				"user_profile"
+			],
+			[
+				"bu",
+				"build_profile"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"pepp",
+				"peppers"
+			],
+			[
+				"ma",
+				"make_pizza"
+			],
+			[
+				"print",
+				"print_models"
+			],
+			[
+				"com",
+				"completed_models"
+			],
+			[
+				"c",
+				"completed_models"
+			],
+			[
+				"gr",
+				"greet_users"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"f",
+				"f_name"
+			],
+			[
+				"l",
+				"l_name"
+			],
+			[
+				"g",
+				"get_formatted_name"
+			],
+			[
+				"p",
+				"pet_name"
+			],
+			[
+				"ha",
+				"harry"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"responses"
+			],
+			[
+				"co",
+				"confirmed_users"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"us",
+				"user_info"
+			],
+			[
+				"topp",
+				"toppings"
+			],
+			[
+				"al",
+				"alien_3"
+			],
+			[
+				"ali",
+				"alien_0"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"fa",
+				"favorite_languages"
+			],
+			[
+				"in",
+				"info_id"
+			],
+			[
+				"x",
+				"x_position"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"r",
+				"requested_topping"
+			],
+			[
+				"req",
+				"requested_toppings"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"ag",
+				"age_1"
+			],
+			[
+				"foo",
+				"foods"
+			],
+			[
+				"di",
+				"dimensions"
+			],
+			[
+				"d",
+				"dimension"
+			],
+			[
+				"fr",
+				"friend_foods"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"e",
+				"even_number"
+			],
+			[
+				"ev",
+				"even_numbers"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"m",
+				"magician"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"mo",
+				"motorcycles"
+			],
+			[
+				"me",
+				"message3"
+			],
+			[
+				"b",
+				"bicycles"
+			],
+			[
+				"mess",
+				"message2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"packag",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"v",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"packege ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"highl",
+				"SublimeHighlight: convert to RTF"
+			],
+			[
+				"the",
+				"UI: Select Color Scheme"
+			],
+			[
+				"add ",
+				"Package Control: Add Repository"
+			],
+			[
+				"SODA",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/1",
+		"/D/workspace1/NewDocument/Python/learn/HelloWorld.py",
+		"/D/workspace1/NewDocument/Python/ss.py",
+		"/D/workspace1/NewDocument/Python/learn/HelloWorld",
+		"/D/workspace1/NewDocument/Python/learn/var doc",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/D/workspace1/NewDocument/Python/learn/ss",
+		"/D/workspace1/NewDocument/Python/learn/first",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Administrator/file",
+		"/C/Users/Administrator/folder",
+		"/C/Users/Administrator/Desktop/ss"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pizza.cpython-36.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"pizza.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
